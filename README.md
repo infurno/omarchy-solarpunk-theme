@@ -1,6 +1,6 @@
 # Omarchy Solarpunk Theme
 
-A dark, bioluminescent-evening theme for Omarchy: deep conifer-night
+A dark, bioluminescent-evening theme for Omarchy: cool conifer-night
 backgrounds, luminous leaf and sea-glass syntax, and a solar-gold accent.
 Nature first, technology as its scaffold.
 
@@ -17,7 +17,7 @@ or paste the URL into *Install > Style > Theme* from the Omarchy menu
 
 ## Palette
 
-- Background: `#0f1b15`
+- Background: `#0c1916`
 - Foreground: `#d8e6d9`
 - Accent (solar gold): `#f2c14e`
 - Leaf green: `#7ecb89`

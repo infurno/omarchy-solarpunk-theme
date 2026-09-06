@@ -1,23 +1,23 @@
 mode = "dark"
 
 # Solarpunk - bioluminescent evening in a solar city.
-# Deep conifer-night backgrounds, luminous leaf/mint syntax, solar-gold accent.
+# Cool conifer-night backgrounds, luminous leaf/mint syntax, solar-gold accent.
 
 accent = "#f2c14e"
-selection = "#4c7c55"
+selection = "#4b7b55"
 muted = "#6e8a79"
 
-background = "#0f1b15"
-dark_background = "#0b1410"
-darker_background = "#080e0b"
-lighter_background = "#212d27"
+background = "#0c1916"
+dark_background = "#091311"
+darker_background = "#060d0b"
+lighter_background = "#1e2b28"
 
 foreground = "#d8e6d9"
 dark_foreground = "#6e8a79"
 light_foreground = "#b1c2b4"
 bright_foreground = "#eef5ee"
 
-selection_background = "#4c7c55"
+selection_background = "#4b7b55"
 selection_foreground = "#f0f7f1"
 cursor = "#a8dfae"
 
@@ -39,7 +39,7 @@ bright_purple = "#dbb8f2"
 brown = "#a58357"
 
 # Legacy ANSI mirror for consumers that read colors.toml directly.
-color0 = "#0f1b15"
+color0 = "#0c1916"
 color1 = "#ef6a5b"
 color2 = "#7ecb89"
 color3 = "#e8c46a"
