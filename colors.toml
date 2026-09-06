@@ -1,0 +1,61 @@
+mode = "dark"
+
+# Solarpunk - bioluminescent evening in a solar city.
+# Deep conifer-night backgrounds, luminous leaf/mint syntax, solar-gold accent.
+
+accent = "#f2c14e"
+selection = "#4c7c55"
+muted = "#6e8a79"
+
+background = "#0f1b15"
+dark_background = "#0b1410"
+darker_background = "#080e0b"
+lighter_background = "#212d27"
+
+foreground = "#d8e6d9"
+dark_foreground = "#6e8a79"
+light_foreground = "#b1c2b4"
+bright_foreground = "#eef5ee"
+
+selection_background = "#4c7c55"
+selection_foreground = "#f0f7f1"
+cursor = "#a8dfae"
+
+red = "#ef6a5b"
+bright_red = "#f58d82"
+green = "#7ecb89"
+bright_green = "#a8dfae"
+yellow = "#e8c46a"
+bright_yellow = "#f1d68a"
+orange = "#ef9d4d"
+blue = "#6fb1e8"
+bright_blue = "#93caf2"
+cyan = "#57d0bd"
+bright_cyan = "#83e2d3"
+magenta = "#c99be8"
+bright_magenta = "#dbb8f2"
+purple = "#c99be8"
+bright_purple = "#dbb8f2"
+brown = "#a58357"
+
+# Legacy ANSI mirror for consumers that read colors.toml directly.
+color0 = "#0f1b15"
+color1 = "#ef6a5b"
+color2 = "#7ecb89"
+color3 = "#e8c46a"
+color4 = "#6fb1e8"
+color5 = "#c99be8"
+color6 = "#57d0bd"
+color7 = "#d8e6d9"
+color8 = "#6e8a79"
+color9 = "#f58d82"
+color10 = "#a8dfae"
+color11 = "#f1d68a"
+color12 = "#93caf2"
+color13 = "#dbb8f2"
+color14 = "#83e2d3"
+color15 = "#eef5ee"
+
+# Organic leaf-to-sun window border gradient.
+hyprland_active_border = "#7ecb89 #f2c14e 55deg"
+hyprland_inactive_border = "#2e4638"
