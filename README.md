@@ -36,7 +36,7 @@ vscode, shell bar, ...) is generated from `colors.toml` by Omarchy itself.
 
 | | | |
 | --- | --- | --- |
-| ![](backgrounds/0-hanging-gardens.jpg) | ![](backgrounds/1-emerald-ruin.jpg) | ![](backgrounds/2-solar-metropolis.jpg) |
+| ![](backgrounds/0-hanging-gardens.webp) | ![](backgrounds/1-emerald-ruin.jpg) | ![](backgrounds/2-solar-metropolis.jpg) |
 | ![](backgrounds/3-valley-arcology.jpg) | ![](backgrounds/4-nouveau-avenue.jpg) | ![](backgrounds/5-gilded-terraces.jpg) |
 
 Cycle with `omarchy theme bg next`.
